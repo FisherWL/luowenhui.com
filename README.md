@@ -1,4 +1,4 @@
-# Kitchen Convertor
+# Cooking Unit Calculator Lite
 
 [contact us](https://luowenhui.com/kitchen/contact-us/)
 
